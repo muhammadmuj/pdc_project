@@ -1,3 +1,5 @@
+# To run the above code files for the better results and no errors run the code on google colab
+# just run the ray file on jupyter notebook
 # Apache spark 
 # Apache Spark MLlib: Iris Dataset Classification
 
